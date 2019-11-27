@@ -4,6 +4,7 @@
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -930,7 +931,7 @@ LQFN48</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ADF7030-1(LFCSP40)">
+<deviceset name="ADF7030-1(LFCSP40)" prefix="IC">
 <description>&lt;b&gt;ADF7030-1&lt;/b&gt; is a fully integrated, radio transceiver achieving high performance at very low power
  
 &lt;p&gt;Technical Specifications:
